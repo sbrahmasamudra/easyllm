@@ -1,4 +1,5 @@
-<h1 align="center">EasyLLM - </h1>
+
+<h1 align="center">EasyLLM - Shreyas</h1>
 
 <div align="center">
 	<a  href="https://pypi.org/project/easyllm" target="_blank">
